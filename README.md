@@ -7,7 +7,7 @@ Questa applicazione prevede il prezzo al metro quadro di immobili a Sindian, Nuo
 1. Clonare il repository:
    ```bash
    git clone https://github.com/ViolaFrancalanci/real-estate-prediction.git
-   cd real-estate-prediction
+   cd progetti
 2. Installare le dipendenze:
    ```bash
    pip install -r requirements.txt

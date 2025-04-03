@@ -2,6 +2,9 @@
  ## Lavoro Sistemi Informativi:
 
 Questa applicazione prevede il prezzo al metro quadro di immobili a Sindian, Nuova Taipei, Taiwan, utilizzando un modello di **regressione lineare**. Il modello si basa su variabili come la **latitudine** e la **longitudine** degli immobili per prevedere il prezzo.
+📊 Dashboard Interattiva su Tableau  
+Creazione di una dashboard con mappe e grafici che mostrano la relazione tra il prezzo degli immobili e altri fattori.  
+🔗 **[Visualizza la dashboard su Tableau Public] https://public.tableau.com/app/profile/viola.francalanci/viz/Progetto_SistemiInformativi/Dashboard1?publish=yes**
 
 📦 **Installazione**
 1. Clonare il repository:

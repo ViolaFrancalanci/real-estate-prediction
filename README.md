@@ -24,4 +24,4 @@ Questa applicazione prevede il prezzo al metro quadro di immobili a Sindian, Nuo
 
 📊 Dashboard Interattiva su Tableau  
 Creazione di una dashboard con mappe e grafici che mostrano la relazione tra il prezzo degli immobili e altri fattori.  
-🔗 **[Visualizza la dashboard su Tableau Public] https://public.tableau.com/app/profile/viola.francalanci/viz/Progetto_SistemiInformativi/Dashboard1?publish=yes**
+🔗 **[Visualizza la dashboard su Tableau Public]https://public.tableau.com/app/profile/viola.francalanci/viz/Progetto_SistemiInformativi2/Dashboard1?publish=yes**

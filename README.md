@@ -1,7 +1,7 @@
 ## real-estate-prediction
  ## Lavoro Sistemi Informativi:
 
-Questa applicazione prevede il prezzo al metro quadro di immobili a Sindian, Nuova Taipei, Taiwan, attravreso un modello di regressione lineare in base alle variabili **langitudine** e **latitudine**.
+Questa applicazione prevede il prezzo al metro quadro di immobili a Sindian, Nuova Taipei, Taiwan, utilizzando un modello di **regressione lineare**. Il modello si basa su variabili come la **latitudine** e la **longitudine** degli immobili per prevedere il prezzo.
 
 📦 **Installazione**
 1. Clonare il repository:
@@ -14,3 +14,9 @@ Questa applicazione prevede il prezzo al metro quadro di immobili a Sindian, Nuo
 3. **Eseguire la web app:**
    ```bash
    streamlit run app.py
+
+📂 Struttura del progetto
+1. app.py: Il file principale per l'esecuzione dell'applicazione Streamlit.
+2. requirements.txt: File contenente tutte le dipendenze necessarie per il progetto.
+3. model.py: Il file che contiene il codice per il modello di regressione lineare.
+4. dataset/: Cartella contenente i dataset utilizzati per addestrare il modello.
